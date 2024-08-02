@@ -1,4 +1,4 @@
-# HarborHarmony - Berth Allocation Problem Solver
+# HarborHarmony - Berth Allocation Problem Optimization 
 
 ## Overview
 HarborHarmony is a project aimed at solving the NP-hard Berth Allocation Problem using four types of algorithms - "Base Cuckoo Search", "Clustering Based Cuckoo Search", "Enhanced Cuckoo Search", and "Enhanced Clustering Cuckoo Search". These algorithms are designed to efficiently allocate berths in a harbor to incoming ships while optimizing various constraints and objectives.
